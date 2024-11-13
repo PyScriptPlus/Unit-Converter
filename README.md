@@ -63,7 +63,7 @@ Result: 11.02 lbs
 
 Here is a sample screenshot of the **Unit Converter** in action:
 
-<img alt="Test" src="https://s8.uupload.ir/files/screenshot_(1033)_ut.png"/>
+![Screenshot (1033)](https://github.com/user-attachments/assets/c28df14b-88be-47a4-bc0a-a8adcb84abf0)
 
 In this example, you can see how the conversion of temperature works. You can convert Celsius to Fahrenheit and vice versa.
 
