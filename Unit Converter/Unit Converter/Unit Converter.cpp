@@ -1,6 +1,18 @@
 ﻿#include <iostream>
 #include <iomanip>
+
+#define MAMAD
+
 using namespace std;
+
+
+
+void print_mamad()
+{
+	std::cout << "Coded By MamaD" << "\n";
+	return;
+}
+
 
 
 //In Baraye Tabdil Dama
@@ -37,7 +49,9 @@ double convertWeight(double value, char fromUnit, char toUnit) {
 }
 
 int main() {
-    cout << "Coded By MamaD" << endl;
+#ifdef
+    print_mamad();
+#endif
     cout << "----------------" << endl;
     char category;
     double value;
